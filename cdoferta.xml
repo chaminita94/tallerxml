@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo>
+    <CDs_En_OFERTA>
+        <CD>
+            <titulo>Still got the blues</titulo>
+            <artista>Gary Moore</artista>
+            <pais>UK</pais>
+            <compañia_discográfica> Virgin records</compañia_discográfica>
+            <precio>10.20</precio>
+            <año_de_publicación> 1990</año_de_publicación>
+        </CD>
+        <CD>
+            <titulo>One night only</titulo>
+            <artista>Bee Gees</artista>
+            <pais>UK</pais>
+            <compañia_discográfica> Polydor</compañia_discográfica>
+            <precio>10.90</precio>
+            <año_de_publicación> 1998</año_de_publicación>
+        </CD>
+        <CD>
+            <titulo>When a man loves a woman</titulo>
+            <artista>Percy Sledge</artista>
+            <pais>USA</pais>
+            <compañia_discográfica> Atlantic</compañia_discográfica>
+            <precio>8.70</precio>
+            <año_de_publicación> 1987</año_de_publicación>
+        </CD>
+        <CD>
+            <titulo>Big Willie style</titulo>
+            <artista>Will Smith</artista>
+            <pais>USA</pais>
+            <compañia_discográfica> Columbia</compañia_discográfica>
+            <precio>9.90</precio>
+            <año_de_publicación> 1987</año_de_publicación>
+        </CD>
+        <CD>
+            <titulo>La canción de Juan perro</titulo>
+            <artista>Radio Futura</artista>
+            <pais>España</pais>
+            <compañia_discográfica> Sony Music-Ariola</compañia_discográfica>
+            <precio>9.90</precio>
+            <año_de_publicación> 1987</año_de_publicación>
+        </CD>
+        <CD>
+            <titulo>The dock of the bay</titulo>
+            <artista>Otis Redding</artista>
+            <pais>USA</pais>
+            <compañia_discográfica> Atlantic</compañia_discográfica>
+            <precio>7.90</precio>
+            <año_de_publicación> 1987</año_de_publicación>
+        </CD>
+    </CDs_En_OFERTA>
+</catalogo>

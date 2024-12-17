@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pressupost>
+    <ordinador id="pressupost_1">
+        <component tipus="placa_base" botiga="Amazon">
+            <nom>ASUS ROG Strix B650-A Gaming WiFi - Placa Base AMD Ryzen AM5</nom>
+            <preu >234 €</preu>
+        </component>
+        <component tipus="CPU" botiga="Amazon">
+            <nom>AMD Ryzen 9 7950X3D</nom>
+            <preu >690 €</preu>
+        </component>
+        <component tipus="RAM" botiga="Amazon">
+            <nom>Corsair Vengeance DDR5 64GB (2x32GB)</nom>
+            <preu >82.99 €</preu>
+        </component>
+        <component tipus="disc_dur" botiga="Amazon">
+            <nom>Samsung 980 1 TB NVMe M.2 Internal Solid State Drive </nom>
+            <preu >69.99 €</preu>
+        </component>
+        <component tipus="GPU" botiga="Amazon">
+            <nom>RX 7800 XT</nom>
+            <preu >504 €</preu>
+        </component>
+        <component tipus="targeta_so" botiga="Amazon">
+            <nom>Creative Sound BlasterX AE-5 Plus</nom>
+            <preu >106.92 €</preu>
+        </component>
+    </ordinador>
+</pressupost>
